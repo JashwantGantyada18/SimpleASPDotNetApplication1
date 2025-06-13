@@ -58,3 +58,11 @@
 /Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/obj/Debug/net9.0/ref/AuthService.dll
 /Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/System.IO.Hashing.dll
 /Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Yarp.ReverseProxy.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/obj/Debug/net9.0/AuthService.sourcelink.json
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Google.Protobuf.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.AspNetCore.Server.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.Core.Api.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.Net.Client.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.Net.ClientFactory.dll
+/Users/jashwantgantyada/FullStackAuthMicroservices/AuthService/bin/Debug/net9.0/Grpc.Net.Common.dll
